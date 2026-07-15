@@ -1,2 +1,4 @@
 # doc files are not required
 *.doc
+*.mid
+.DS_Store
